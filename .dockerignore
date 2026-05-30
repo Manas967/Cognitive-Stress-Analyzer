@@ -1,0 +1,11 @@
+ml_venv/
+.env
+models/*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+.git/
+.gitignore

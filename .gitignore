@@ -1,0 +1,5 @@
+ml_venv/
+.env
+models/*
+__pycache__/
+*.pyc
