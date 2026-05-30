@@ -264,24 +264,6 @@ The ML model is trained on first launch and cached as `.pkl` files under `models
 
 ---
 
-## Known Issues & Fixes
-
-### Bug in `Dockerfile`
-
-The current `Dockerfile` contains a syntax error on line 11:
-
-```dockerfile
-# ❌ Broken
-RUN pip install --upgrage pip && --no-cache-dir -r requirements.txt
-
-# ✅ Fixed
-RUN pip install --upgrade pip && pip install --no-cache-dir -r requirements.txt
-```
-
-Apply this fix before building the Docker image.
-
----
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
