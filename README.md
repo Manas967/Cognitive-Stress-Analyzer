@@ -4,6 +4,8 @@
 
 **MCA-3 Project Submission** — Manas Tiwari & KM Ankita Jaiswal (Group-15)
 
+🚀 **Live Demo:** [Click here to use the web application](https://cognitive-stress-analyzer.streamlit.app/)
+
 ---
 
 ## 📌 Table of Contents
