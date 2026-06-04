@@ -2,7 +2,7 @@
 
 > An AI-powered web application that combines Machine Learning with Google Gemini's Explainable AI to assess and diagnose cognitive stress levels from physiological and contextual inputs.
 
-**MCA-3 Project Submission** — Manas Tiwari & KM Ankita Jaiswal (Group-15)
+**MCA-3 Project 
 
 🚀 **Live Demo:** [Click here to use the web application](https://cognitive-stress-analyzer.streamlit.app/)
 
@@ -284,4 +284,4 @@ This project is submitted as an academic project for MCA-3. All rights belong to
 
 ---
 
-<p align="center">Made with ❤️ by Manas Tiwari & KM Ankita Jaiswal</p>
+<p align="center"> Made with ❤️ by Manas Tiwari </p>
